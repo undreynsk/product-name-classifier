@@ -1,0 +1,10 @@
+# AM 20/Oct/26 - never publish data or anything derived from it
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.joblib
+
+.venv/
+__pycache__/
+*.pyc
